@@ -1,7 +1,7 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist",
+    "outDir": "./dist/angualr8-sept-2019",
     "types": []
   },
   "include": [
