@@ -2,7 +2,7 @@
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
-    "outDir": "./dist",
+    "outDir": "./dist/angualr8-sept-2019",
     "sourceMap": true,
     "declaration": false,
     "module": "esnext",
