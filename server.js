@@ -13,7 +13,7 @@ app.get('*', (req, res) => {
  
     // angular routing
     console.log(`Angular serving ${req.url}`);
-    res.sendFile(path.resolve('angualr8-sept-2019/index.html'));
+    res.sendFile(path.resolve('dist/index.html'));
   
 });
 
